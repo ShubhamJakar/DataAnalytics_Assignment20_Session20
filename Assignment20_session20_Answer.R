@@ -14,7 +14,7 @@
 #a
 #reading the dataset
 #using bankloan dataset
-bankloan1 <- read.csv("D:/acadgild/mail things/24 mar/bankloan1.csv")
+bankloan1 <- read.csv("D:/acadgild/bankloan1.csv")
 View(bankloan1)
 
 str(bankloan1)
